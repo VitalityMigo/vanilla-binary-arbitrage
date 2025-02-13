@@ -1,6 +1,6 @@
 # Vanilla-Binary Options Arbitrage Strategy
 
-This project is the support for a paper entitled [Derivatives Arbitrage Strategies in Cryptocurrency Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5117697), available on the Social Science Research Network. For further context, please refer to the latter.
+This project is the support for a paper entitled [Derivative Arbitrage Strategies in Cryptocurrency Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5117697), available on the Social Science Research Network. For further context, please refer to the latter.
 
 ## Context
 
