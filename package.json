@@ -1,0 +1,12 @@
+{
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "colors": "^1.4.0",
+    "fs": "^0.0.1-security",
+    "mathjs": "^14.2.0",
+    "node-schedule": "^2.1.1",
+    "path": "^0.12.7",
+    "ws": "^8.18.0"
+  }
+}
